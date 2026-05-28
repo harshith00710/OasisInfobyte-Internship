@@ -13,4 +13,4 @@ nmap localhost
 Successfully identified open ports and services.
 
 ##Conclusion
-NMap is useful for network scanning and identifying open ports.
+Nmap is useful for network scanning and identifying open ports.
