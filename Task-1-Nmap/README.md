@@ -1,6 +1,6 @@
 #Task 1-Basic Network Scanning with Nmap
 
-##Objectiove
+##Objective
 To perform a network scan using Nmap.
 
 ##Tool Used
